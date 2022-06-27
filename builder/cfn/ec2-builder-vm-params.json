@@ -1,0 +1,38 @@
+[
+    {
+        "ParameterKey": "AmiId",
+        "ParameterValue": "ami-0b22fcaf3564fb0c9"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3a.large"
+    },
+    {
+        "ParameterKey": "KeyPairName",
+        "ParameterValue": "ECS default key pair"
+    },
+    {
+        "ParameterKey": "SshPort",
+        "ParameterValue": "22"
+    },
+    {
+        "ParameterKey": "RootDeviceParameterKey",
+        "ParameterValue": "sda1"
+    },
+    {
+        "ParameterKey": "RootVolumeSize",
+        "ParameterValue": "512"
+    },
+    {
+        "ParameterKey": "SubnetId",
+        "ParameterValue": "subnet-07b4d67d"
+    },
+    {
+        "ParameterKey": "VpcId",
+        "ParameterValue": "vpc-ac85d9c4"
+    },
+    {
+        "ParameterKey": "OpsLocation0001",
+        "ParameterValue": "0.0.0.0/0"
+    }
+]
