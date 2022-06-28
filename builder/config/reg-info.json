@@ -1,0 +1,18 @@
+{
+    "zip" : "[value]",
+    "country" : "[value]",
+    "city" : "[value]",
+    "last_name" : "[value]",
+    "industry" : "[value]",
+    "eula" : "accept",
+    "title" : "[value]",
+    "phone" : "[value]",
+    "company" : "[value]",
+    "state" : "[value]",
+    "department" : "[value]",
+    "first_name" : "[value]",
+    "email" : "[value]",
+    "company_employees" : "[value]",
+    "opt_in" : "[value]"
+  }
+  
